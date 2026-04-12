@@ -1,7 +1,7 @@
 # Sistema de Biblioteca - JPA
 
 ## Integrantes
-- Lucas do Vale Lsiboa
+- Lucas do Vale Lisboa
 - Belém Capelo Ribeiro
 
 ## Descrição
