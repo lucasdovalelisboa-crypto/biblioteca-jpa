@@ -1,8 +1,8 @@
 # Sistema de Biblioteca - JPA
 
 ## Integrantes
-- Seu nome
-- (dupla, se tiver)
+- Lucas do Vale Lsiboa
+- Belém Capelo Ribeiro
 
 ## Descrição
 Sistema de gerenciamento de empréstimos de biblioteca utilizando JPA e Hibernate.
